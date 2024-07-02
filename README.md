@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SeemabAli
-- 👀 I’m interested in coding
+- 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me aliseemi7335@gmail.com
+- 📫 How to reach me seemabali@proton.me
 
 <!---
 SeemabAli/SeemabAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
