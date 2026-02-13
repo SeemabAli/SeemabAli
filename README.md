@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Seemab Ali! 👋 </h1>
 
 <p align="center">
-  🚀 <strong>Full Stack Developer | MERN Stack Enthusiast | Certified React Developer</strong> 🚀
+  🚀 <strong>Software Engineering Graduate | Full Stack Developer | Next.js & MERN Expert</strong> 🚀
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=seemabali&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-  <a href="https://github.com/seemabali?tab=followers">
-    <img src="https://img.shields.io/github/followers/seemabali?label=Followers&style=social" alt="GitHub Followers">
+  <a href="https://github.com/SeemabAli">
+    <img src="https://img.shields.io/github/followers/SeemabAli?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -15,29 +15,28 @@
 
 ## 🚀 About Me
 
-Hey! I'm **Seemab Ali**, a passionate **Full Stack Developer** with expertise in the **MERN stack**. I love creating user-friendly, highly functional, and responsive web applications. My journey in web development started with curiosity and turned into a passion for building digital experiences that make a difference.
+Hey! I'm **Seemab Ali**, a **Software Engineering graduate** and a passionate **Full Stack Developer** specializing in the **MERN and Next.js stack**. I focus on building scalable, role-based applications with a strong emphasis on modern UI design principles and performance. 
 
-💡 **What drives me?**  
-I enjoy solving complex problems, writing efficient code, and continuously learning about new technologies. Whether it's crafting a seamless frontend experience or developing a scalable backend, I always strive to deliver high-quality solutions.
+💡 **What drives me?**
+I am passionate about contributing to high-impact teams and solving complex problems through efficient, type-safe code. From designing RESTful APIs to implementing conflict-free scheduling logic, I strive for excellence in every line of code.
 
-🔍 **What I specialize in?**  
-- **Frontend Development:** Creating pixel-perfect, responsive, and dynamic UI with React.js & Next.js.  
-- **Backend Development:** Developing robust RESTful APIs using Node.js and Express.js.  
-- **Database Management:** Efficiently handling data with MongoDB.  
-- **Performance Optimization:** Ensuring applications run smoothly and efficiently.  
+🔍 **My Specializations:**
+- **Full Stack Development:** Specialized in JavaScript (ES6+) and TypeScript for building robust applications.
+- **Frontend Excellence:** Expert in React.js, Next.js 15, and Tailwind CSS v4.
+- **Backend & Database:** Skilled in Node.js, Express.js, and MongoDB.
+- **Collaborative Development:** Proficient in Git, GitHub, and Agile collaboration.
 
-🔗 **Check out my portfolio:**  
-🎨 [seemabali-portfolio.netlify.app](https://seemabali-portfolio.netlify.app/)  
+🔗 **Check out my portfolio:**
+🎨 [seemab-ali-portfolio.vercel.app](https://react-portfolio-seemab-9vuj-6gdaeo22q-seemab-alis-projects.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 ### **🌐 Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **⚙️ Backend**
@@ -45,47 +44,45 @@ I enjoy solving complex problems, writing efficient code, and continuously learn
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **🛠️ Tools & Platforms**
+### **🛠️ Tools & Training**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **[Attendance Management System](https://github.com/seemabali/attendance-management)**
-📝 A complete **MERN stack** web application for tracking student attendance with admin and user dashboards.
+### 🔹 **Automated Lecture Timetable System (FYP)**
+📅 A role-based web application developed with **Next.js** and **MongoDB** to automate course scheduling and manage faculty preferences with dynamic conflict-free logic.
 
-### 🔹 **[Financial Management Web App](https://github.com/seemabali/finance-app)**
-📊 A financial tracker built with React and Tailwind CSS to manage income, expenses, and generate invoices.
+### 🔹 **BariArabians - Stud Farm Website**
+🐎 A dynamic platform featuring **NextAuth** for role-based access, SSR for optimization, and full CRUD operations for content management.
 
-### 🔹 **[Educational Blogging Platform](https://github.com/seemabali/edu-blog)**
-🖊️ A community-driven blogging website for educators, featuring articles, discussions, and learning resources.
+### 🔹 **Next.js Auth System**
+🔐 A secure authentication project implementing email login, session handling, and protected API endpoints.
+
+### 🔹 **Space Shooter Game**
+🚀 An interactive browser-based game built with pure **JavaScript**, featuring custom animations and a scoring system.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seemabali&show_icons=true&theme=radical" alt="Seemab's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seemabali&theme=radical" alt="Seemab's GitHub Streak">
-</p>
+## 🏆 Certifications
+- **Full Stack Web Development** - Hitesh Choudhary & NAVTTC
+- **Certified React Developer** - W3Schools
+- **Meta Professional Certifications** - Frontend, Backend, and JavaScript
+- **Software Testing & QA** - LinkedIn Learning
 
 ---
 
 ## 📫 Let's Connect!
 
-🌍 **Portfolio:** [seemabali-portfolio.netlify.app](https://seemabali-portfolio.netlify.app/)  
-📧 **Email:** [seemabali@proton.me](mailto:seemabali@proton.me)  
-📞 **Phone:** [+92 317 5691110](tel:+923175691110)  
-📍 **Location:** Chakwal, Punjab, Pakistan  
+📧 **Email:** [seemabali@proton.me](mailto:seemabali@proton.me)
+📞 **Phone:** [+923395914110](tel:+923395914110)
+📍 **Location:** Islamabad, Pakistan
 
-🔗 **Socials:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seemabali)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/seemabali)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/MindsetMastery)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seemabali)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeemabAli)
 
-🚀 Let's build something amazing together! 💻✨  
+🚀 Let's build something amazing together! 💻✨
